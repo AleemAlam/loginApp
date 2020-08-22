@@ -90,7 +90,7 @@ class _ForgotPasswordState extends State<ForgotPassword> {
                         child: Material(
                           borderRadius: BorderRadius.circular(25),
                           color: Colors.blue,
-                          elevation: 70,
+                          elevation: 7,
                           child: GestureDetector(
                             child: Center(
                               child: Text(
